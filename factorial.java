@@ -13,3 +13,4 @@ public class factorial {
     }
 }
 
+// TC: O(n)  SC:
